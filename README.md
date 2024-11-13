@@ -8,7 +8,7 @@ My first website. Using HTML and CSS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aliberkayberber/Frontend-Basic-Projects
+   git clone https://github.com/aliberkayberber/CurriculumVitaeProjects
    ```
 
 2. **Run HTML project**
